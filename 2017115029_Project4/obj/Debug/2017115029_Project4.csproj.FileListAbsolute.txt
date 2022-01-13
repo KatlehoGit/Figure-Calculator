@@ -1,0 +1,25 @@
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe.config
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.pdb
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.csprojAssemblyReference.cache
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.exe
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.pdb
+F:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe.config
+F:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.exe
+F:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.pdb
+H:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe.config
+H:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe
+H:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.pdb
+H:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.csprojAssemblyReference.cache
+H:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.exe
+H:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.pdb
+E:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.csprojAssemblyReference.cache
+E:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.csproj.CoreCompileInputs.cache
+E:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.exe
+E:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.pdb
+E:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe.config
+E:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe
+E:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.pdb
+F:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.exe
+F:\Kat\2017115029_Project4\2017115029_Project4\bin\Debug\2017115029_Project4.pdb
+F:\Kat\2017115029_Project4\2017115029_Project4\obj\Debug\2017115029_Project4.csprojAssemblyReference.cache
